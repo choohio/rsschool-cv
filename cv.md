@@ -9,7 +9,7 @@ Junior Frontend Developer
 + E-mail: alchukharev@mail.ru
 + [Github page](https://github.com/choohio)
 
-=======
+-----------
 
 ## About me
 
