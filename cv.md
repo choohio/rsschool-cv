@@ -7,15 +7,16 @@ Junior Frontend Developer
 
 + Phone: +7 926 865-51-55 
 + E-mail: alchukharev@mail.ru
-+ [https://github.com/choohio](Github)
++ [Github page](https://github.com/choohio)
 
-----
+=======
 
 ## 3. About me
 
 Graduated from university in 2023. Looking for a junior frontend developer job. 
 
 ----
+
 ## 4. Software skill
 
 + CSS
@@ -23,7 +24,7 @@ Graduated from university in 2023. Looking for a junior frontend developer job.
 + Typescript
 + React
 
-----
+*************
 
 ## 5. Example of code
 
@@ -38,13 +39,14 @@ function nbDig(n, d) {
   return num
 }
 ```
+
 ----
 
 ## 6. Work experience
 
 + Freelance Frontend Developer 2020-Present
 
-----
+**************
 
 ## 7. Education
 
@@ -54,7 +56,7 @@ Financial University under the Government of the Russian Federation 2018-2023
 
 Business informatics (Information Systems)
 
-----
+****************
 
 ## 8. Language
 
