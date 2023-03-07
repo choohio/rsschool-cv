@@ -1,4 +1,5 @@
-## 1. Aleksandr Chukharev
+## 1. Name
+Aleksandr Chukharev
 ----
 ## 2. Contacts 
 + Phone: +7 926 865-51-55 
@@ -6,8 +7,9 @@
 ----
 ## 3. About me
 
+Graduated from university. 
 ----
-## 4. Skills
+## 4. Software skill
 + CSS
 + JavaScript
 + Typescript
@@ -34,9 +36,10 @@ function nbDig(n, d) {
 **Bachelor degree**
 
 Financial University under the Government of the Russian Federation 2018-2023
+
 Business informatics (Information Systems)
 ----
-## 8. Languages
+## 8. Language
 + English B2 
 + German B2
 
