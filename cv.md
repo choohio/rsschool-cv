@@ -1,21 +1,32 @@
-## 1. Name
-Aleksandr Chukharev
+## Aleksandr Chukharev
+
+Junior Frontend Developer
+
 ----
-## 2. Contacts 
+## Contacts 
+
 + Phone: +7 926 865-51-55 
 + E-mail: alchukharev@mail.ru
++ [https://github.com/choohio](Github)
+
 ----
+
 ## 3. About me
 
-Graduated from university. 
+Graduated from university in 2023. Looking for a junior frontend developer job. 
+
 ----
 ## 4. Software skill
+
 + CSS
 + JavaScript
 + Typescript
 + React
+
 ----
+
 ## 5. Example of code
+
 ```
 function nbDig(n, d) {
   let count = null;
@@ -28,9 +39,13 @@ function nbDig(n, d) {
 }
 ```
 ----
+
 ## 6. Work experience
+
 + Freelance Frontend Developer 2020-Present
+
 ----
+
 ## 7. Education
 
 **Bachelor degree**
@@ -38,8 +53,11 @@ function nbDig(n, d) {
 Financial University under the Government of the Russian Federation 2018-2023
 
 Business informatics (Information Systems)
+
 ----
+
 ## 8. Language
+
 + English B2 
 + German B2
 
