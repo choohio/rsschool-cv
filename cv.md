@@ -11,13 +11,13 @@ Junior Frontend Developer
 
 =======
 
-## 3. About me
+## About me
 
 Graduated from university in 2023. Looking for a junior frontend developer job. 
 
 ----
 
-## 4. Software skill
+## Software skill
 
 + CSS
 + JavaScript
@@ -26,7 +26,7 @@ Graduated from university in 2023. Looking for a junior frontend developer job.
 
 *************
 
-## 5. Example of code
+## Example of code
 
 ```
 function nbDig(n, d) {
@@ -42,13 +42,13 @@ function nbDig(n, d) {
 
 ----
 
-## 6. Work experience
+## Work experience
 
 + Freelance Frontend Developer 2020-Present
 
 **************
 
-## 7. Education
+## Education
 
 **Bachelor degree**
 
@@ -58,7 +58,7 @@ Business informatics (Information Systems)
 
 ****************
 
-## 8. Language
+## Language
 
 + English B2 
 + German B2
