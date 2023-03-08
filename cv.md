@@ -2,6 +2,8 @@
 
 Junior Frontend Developer
 
+![Baboo](https://static.pepper.ru/threads/raw/cLoAV/346342_1/re/768x768/qt/60/346342_1.jpg)
+
 ----
 ## Contacts 
 
